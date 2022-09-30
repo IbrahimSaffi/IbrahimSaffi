@@ -5,7 +5,9 @@ I am a Full-Stack-Developer who developed  an interest in programming a couple o
 ### React,MongoDB,ExpressJS
 ### About
 ### Screenshots
-<img src="Availble doctors and filters.png" alt="Logo" width="150" height="150">
-<img src="Doctor Upcoming.PNG" alt="Logo" width="150" height="150">
-<img src="Prescribe doctor.PNG" alt="Logo" width="150" height="150">
-<img src="Login.PNG" alt="Logo" width="150" height="150">
+<div style="display: flex;">
+    <img src="./Consultation App/Availble doctors and filters.png" alt="Logo" width="150" height="150">
+    <img src="./Consultation App/Doctor Upcoming.PNG" alt="Logo" width="150" height="150">
+    <img src="./Consultation App/Login.PNG" alt="Logo" width="150" height="150">
+    <img src="./Consultation App/Prescribe doctor.PNG"  alt="Logo" width="150" height="150">
+</div>
