@@ -3,12 +3,12 @@ I am a Full-Stack-Developer who developed  an interest in programming a couple o
 # Connect with me
    <div class="social-icons-image">
                 <a href="http://plus.google.com">
-                    <img src="http://www.androidpolice.com/wp-content/uploads/2013/06/nexusae0_g.png" alt="Google Plus Icon">
+                    <img style="width:50px" src="http://www.androidpolice.com/wp-content/uploads/2013/06/nexusae0_g.png" alt="Google Plus Icon">
                 </a>
             </div>
             <div class="social-icons-image">
                 <a href="https://www.linkedin.com/in/ibrahim-saffi-7bb448143/">
-                    <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
+                    <img style="width:50px" src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
                 </a>
             </div>
 
