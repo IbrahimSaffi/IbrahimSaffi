@@ -10,7 +10,7 @@ I am a Full-Stack-Developer who developed  an interest in programming a couple o
     <img src="./Consultation App/Doctor Upcoming.PNG" alt="Logo" width="50%">
     <img src="./Consultation App/Login.PNG" alt="Logo" width="50%">
     <img src="./Consultation App/Prescribe doctor.PNG"  alt="Logo" width="50%">
-</div>
+</div>  
 ##  <a href="https://visionary-alpaca-41ec18.netlify.app" >Quiz App(Kahoot Clone)</a>
 ###  React,MongoDB,ExpressJS, Socket.io
 ###   About
@@ -25,6 +25,7 @@ I am a Full-Stack-Developer who developed  an interest in programming a couple o
     <img src="./Quizup/Teacher templates.PNG" alt="Logo" width="50%">
     <img src="./Quizup/Template Creation.PNG" alt="Logo" width="50%">
 </div>
+
 ## <a href="https://splendorous-bombolone-3b7414.netlify.app" >Movie Site</a>
 ### React,MongoDB,ExpressJS
 ### About
@@ -34,6 +35,7 @@ I am a Full-Stack-Developer who developed  an interest in programming a couple o
     <img src="./Movies Site/Movie Page.PNG" alt="Logo" width="50%">
     <img src="./Movies Site/Suggestion.PNG" alt="Logo" width="50%">
 </div>
+
 ## <a href="https://bejewelled-longma-f58b4e.netlify.app/" >Memory Game</a>
 ### React,MongoDB,ExpressJS,PWA
 ### About
