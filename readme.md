@@ -12,7 +12,7 @@ I am a Full-Stack-Developer who developed  an interest in programming a couple o
     <img src="./Consultation App/Prescribe doctor.PNG"  alt="Logo" width="50%">
 </div>
 ## <a href="https://visionary-alpaca-41ec18.netlify.app" >Quiz App(Kahoot Clone)</a>
-### React,MongoDB,ExpressJS, Socket.i
+### React,MongoDB,ExpressJS, Socket.io
 ### About
 ### Screenshots
 <div style="display: flex; width: 100%;">
