@@ -7,8 +7,8 @@ I am a Full-Stack-Developer who developed  an interest in programming a couple o
 Doctors can signup on this website and select their consultation hours and price. Patients can find doctors and book an appointment for consultation. Patients can rate and review doctors as well. I also implemented passoword reset using mailgun.
 ### Screenshots
 <div style="display: flex; width: 100vw;">
-    <img src="./Consultation App/Availble doctors and filters.png" alt="Logo" width="50%">
-    <img src="./Consultation App/Doctor Upcoming.PNG" alt="Logo" width="50%">
+    <img src="./Consultation App/Availble doctors and filters.png" alt="Logo" width="100px">
+    <img src="./Consultation App/Doctor Upcoming.PNG" alt="Logo" width="100px">
     <img src="./Consultation App/Login.PNG" alt="Logo" width="50%">
     <img src="./Consultation App/Prescribe doctor.PNG"  alt="Logo" width="50%">
 </div>
