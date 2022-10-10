@@ -1,15 +1,13 @@
 # Hi, I am Ibrahim Saffi
 I am a Full-Stack-Developer who developed  an interest in programming a couple of years back and decided to pursue a career in programming. I find excitement in learning different technologies and Web development offers endless opportunities in that regard. I mostly work with the MERN stack and am always ready for any opportunity to learn something new.
-# Connect with me
-   <div style="display:flex width:100vw">
-                <a href="http://plus.google.com">
-                    <img style="width:50px" src="http://www.androidpolice.com/wp-content/uploads/2013/06/nexusae0_g.png" alt="Google Plus Icon">
-                </a>
-            </div>
-            <div class="social-icons-image">
-                <a href="https://www.linkedin.com/in/ibrahim-saffi-7bb448143/">
-                    <img style="width:50px" src="https://i.stack.imgur.com/gVE0j.png" alt="Linkedin Icon">
-                </a>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝 
+<div class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ibrahim-saffi-7bb448143/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/IbrahimSaffi/IbrahimSaffi">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/IbrahimSaffi/IbrahimSaffi/blob/main/Ibrahim%20-%20Resume%202022.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 ## <a href="https://subtle-maamoul-3fb675.netlify.app/" >Consultation App</a>
